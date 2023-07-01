@@ -1,4 +1,4 @@
-import 'package:mylaundry_mobile/data/models/shop_model.dart';
+import 'package:mycucian_mobile/data/models/shop_model.dart';
 
 class PromoModel {
   int? id;

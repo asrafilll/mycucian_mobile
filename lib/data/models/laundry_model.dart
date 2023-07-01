@@ -1,5 +1,5 @@
-import 'package:mylaundry_mobile/data/models/shop_model.dart';
-import 'package:mylaundry_mobile/data/models/user_model.dart';
+import 'package:mycucian_mobile/data/models/shop_model.dart';
+import 'package:mycucian_mobile/data/models/user_model.dart';
 
 class LaundryModel {
   int? id;
